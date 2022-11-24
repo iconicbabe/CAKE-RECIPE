@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Pie Lemon Recipe</title>
+    <title> LEMON PIE Recipe</title>
 </head>
 <style>  <!-- <a href="recipe.css">UNDERSTOOD  - so click to Register</a>--!>
 </style>
 <body>
     <h1 style="background-color:rgb(233, 233, 216);color:rgb(156, 156, 27);padding:5px;margin:"center";text-align:center"><u>Grandma's Lemon Meringue Pie</u></h1>
-    <h5>LOGO PICTURE FOR THE PIE</h5>
+    
     <p>One 9-inch pie</p>
     <p>30 Min - Prep time</p>
     <p>10 Min - Cook time</p>
